@@ -1,0 +1,10 @@
+
+public class PlusMultiplication extends SubstractionAddition {
+	SubstractionAddition () {
+		System.out.println("Initializare constructor Multiplicare");
+	}
+	int multiplication (int a, int b) { 
+		return (a * b);
+	}
+
+}

@@ -1,0 +1,20 @@
+package Homework;
+
+import java.util.Scanner;
+
+public class Homework4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner in = new Scanner(System.in);
+		// DEFINE VOWELS ARRAY
+		String a="";
+		for (int k=1; k<=10; k++) {
+			a=a+k;
+			System.out.println(a);
+		}
+		in.close();
+
+	}
+
+}

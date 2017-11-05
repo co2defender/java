@@ -1,0 +1,8 @@
+package formegeometrice;
+
+public class Circle extends ShapeForm {
+	boolean hascorner=false;
+	public void describe () {
+		System.out.println("Cercul nu are colturi");
+	}
+}

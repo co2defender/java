@@ -1,0 +1,8 @@
+
+public class MainSubstractionAddition {
+
+	public static void main(String[] args) {
+		SubstractionAddition calculator = new SubstractionAddition();
+	}
+
+}

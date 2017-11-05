@@ -1,0 +1,8 @@
+package formegeometrice;
+
+public class Circle extends ShapeForm {
+	boolean hascorner=false;
+	public void describe () {
+		
+	}
+}

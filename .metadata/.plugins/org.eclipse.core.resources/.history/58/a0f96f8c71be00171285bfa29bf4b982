@@ -1,0 +1,14 @@
+package school;
+
+public class Profesor {
+	public Profesor () {
+		System.out.println("Initializare constructor Profesor");
+	}
+	public String name = "";  
+	
+	void public String actions () { 
+		 System.out.println("Teaching");
+	}
+	
+
+}

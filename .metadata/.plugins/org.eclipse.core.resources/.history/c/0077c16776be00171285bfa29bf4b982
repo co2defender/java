@@ -1,0 +1,9 @@
+package formegeometrice;
+
+public class Square extends Rectangle {
+	boolean lengthEqualsWidth=true;
+	public void describe () {
+		
+	}
+
+}

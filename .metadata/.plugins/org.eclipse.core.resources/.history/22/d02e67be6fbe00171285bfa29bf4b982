@@ -1,0 +1,12 @@
+public class SubstractionAddition {
+	SubstractionAddition () {
+		System.out.println("Initializare constructor SubAdd");
+	}
+	int sum (int a, int b) {
+		return (a + b); 
+	}
+	int diff (int a, int b) { 
+		return (a - b);
+	}
+	
+}

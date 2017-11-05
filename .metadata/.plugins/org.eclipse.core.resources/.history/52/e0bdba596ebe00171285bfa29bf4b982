@@ -1,0 +1,16 @@
+
+public class MainSubstractionAddition {
+
+	public static void main(String[] args) {
+		SubstractionAddition calculator = new SubstractionAddition();
+		int sum = calculator.sum(2, 3);
+		System.out.println(sum);
+		int diff = calculator.diff(3, 2);
+		System.out.println(diff)
+		
+		PlusMultiplication calculatoravansat = new PlusMultiplication();
+		int calculatoravansat.sum(10,2);
+		int calculatoravansat.multiplication(10,2);
+	}
+
+}

@@ -1,0 +1,8 @@
+package school;
+
+public class Physics extends Profesor {
+	public String actions () { 
+		return System.out.println("Teaching physics");
+	}
+
+}
